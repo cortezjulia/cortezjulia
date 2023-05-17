@@ -5,11 +5,11 @@
 <h2 align="start"> I am: </h2>
 
 
-<p><strong> Scout ⚜️
+<b> Scout </b> ⚜️
 
-Electrical Engineer ⚡
+<b> Electrical Engineer </b> ⚡
   
-  Electronic product developer 💡</p>
+<b>  Electronic product developer </b> 💡
 
 
 

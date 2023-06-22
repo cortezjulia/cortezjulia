@@ -11,7 +11,7 @@
   
 <b>  Electronic product developer </b> 💡
 
-
+<b>  Post Graduate in Software Engineering </b> 🖥️
 
 
 
